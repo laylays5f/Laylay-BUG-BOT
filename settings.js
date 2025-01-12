@@ -4,17 +4,17 @@
 //Instagram: techgod143
 //Telegram: t.me/techgod143
 //GitHub: @techgod143
-//WhatsApp: +23460288068
+//WhatsApp: +2348160288068
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
+global.ownernomer = "2348160288068"
+global.ownername = "JayJay"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
-global.location = "India, Up, Rampur"
+global.location = "Nigeria, Delta, Agbor"
 
 global.ownernumber = '2348160288068'  //creator number
 global.ownername = 'JayJay' //owner name
@@ -29,7 +29,7 @@ global.themeemoji = '🪀'
 global.wm = "Youtube Tech God."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://wa.me//+2348160288068'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
